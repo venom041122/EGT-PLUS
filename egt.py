@@ -7,7 +7,7 @@ import random
 import dlib
 import sys
 
-from etg_func import *
+from egt_func import *
 from keyboard import get_keyboard
 
 
