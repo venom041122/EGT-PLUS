@@ -1,4 +1,4 @@
-# ETG-PLUS
+# EGT-PLUS
 
 Problem:
 ● Hundreds of millions of people worldwide are affected by neurological disorders.
